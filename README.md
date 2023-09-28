@@ -8,15 +8,34 @@ _Group Collaborators: Krisha Adhikari (kadhikari@umass.edu), Aadarsha Rai (aadar
 -Developing deep learning tracking algorithm for two mobile systems
 -Will include implementing TartanVO, a visual odometry model and benchmarking it with multiple datasets
 
-**Deliverables** 
-**System blocks** 
-**hw/sw requirements**
+**Deliverables**  
+
+- Implement and understand an end-to-end learning approach for tracking - TartanVO  
+- Benchmark TartanVO on two datasets (KITTI and EuRoC)  
+- Analyze performance on the datasets  
+
+**hw/sw requirements**  
+
 -Need to know how to code in Python
 -Need a laptop/PC with a CUDA enabled GPU
 
-**Team members responsibilities** 
-**Project timeline** 
-**References**
+**Team members responsibilities**  
 
-• Mention team member’s lead roles: setup, software, networking, writing,
-research, algorithm design
+Krisha: Setup, Writing  
+Aadi: Software, Research  
+
+**Project timeline**  
+
+TartanVO Understanding: October 10th  
+Setup Environment: October 30th
+Implement TartanVO on Dataset 1: November 15th
+Implement TartanVO on Dataset 2: November 30th
+Analyze TartanVO and finalize: December 5th
+
+**References**  
+
+_TartanVO: https://arxiv.org/pdf/2011.00359.pdf_  
+_Code: https://github.com/castacks/tartanvo_  
+_Datasets: KITTI (https://www.cvlibs.net/datasets/kitti/eval_odometry.php), EuRoC (https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets)_ 
+
+
