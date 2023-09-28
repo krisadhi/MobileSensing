@@ -2,11 +2,16 @@
 
 _Group Collaborators: Krisha Adhikari (kadhikari@umass.edu), Aadarsha Rai (aadarsharai@umass.edu_
 
-**Motivation**
+**Motivation**  
+
+Tracking is important for many different uses with mobile embedded systems. They provide a way to map out the environment in a virtual reality, 
+and can even be used in real life applications with robotics. The deep learning model that is used to track the data gathered from 
+mobile embedded systems can greatly affect the performance. Improving this performance results in better virtual reality environments and experience.  
 
 **Design goals**
--Developing deep learning tracking algorithm for two mobile systems
--Will include implementing TartanVO, a visual odometry model and benchmarking it with multiple datasets
+
+- Developing deep learning tracking algorithm for two mobile systems
+- Will include implementing TartanVO, a visual odometry model and benchmarking it with multiple datasets
 
 **Deliverables**  
 
@@ -16,8 +21,8 @@ _Group Collaborators: Krisha Adhikari (kadhikari@umass.edu), Aadarsha Rai (aadar
 
 **hw/sw requirements**  
 
--Need to know how to code in Python
--Need a laptop/PC with a CUDA enabled GPU
+- Need to know how to code in Python
+- Need a laptop/PC with a CUDA enabled GPU
 
 **Team members responsibilities**  
 
